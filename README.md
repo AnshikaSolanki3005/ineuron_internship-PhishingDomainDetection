@@ -77,4 +77,4 @@ The PhishingDomainDetection.ipynb notebook contains Python code for:
 
 **Contributor**
 
-Anshika Solanki
+***Anshika Solanki***
