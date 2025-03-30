@@ -1,4 +1,4 @@
-# ineuron_internship-PhishingDomainDetection
+# iNeuron_internship-PhishingDomainDetection
 
 **Overview**
 This project aims to detect phishing domains using machine learning techniques. It utilizes various data science methodologies to classify URLs as legitimate or phishing based on their features.
